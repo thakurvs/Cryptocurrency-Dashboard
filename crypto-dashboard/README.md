@@ -53,4 +53,11 @@ real-time-crypto-dashboard/
 - Routing: React Router
 - State Management: Redux Toolkit
 - Data Visualization: Chart.js
+- 
+## Prerequisites
 
+Before you begin, ensure you have the following installed:
+
+- Node.js (v16 or later)
+- vite 
+- npm or yarn package manager
