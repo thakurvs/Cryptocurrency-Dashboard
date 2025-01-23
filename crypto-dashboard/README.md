@@ -29,8 +29,12 @@ real-time-crypto-dashboard/
 ├── src/
 │   ├── components/
 │   │   ├── Header.jsx
+│   │   ├── Footer.jsx
 │   │
-│   ├── pages/              # Page-level components
+│   ├── pages/ 
+│   │   ├── Dashboard.jsx
+│   │   ├── Overview.jsx
+│   │   ├── History.jsx
 │   ├── store/
 │   │   ├── cryptoSlice.js
 │   ├── styles/
@@ -41,4 +45,12 @@ real-time-crypto-dashboard/
 ├── README.md
 ├── package.json
 ├── tailwind.config.js
+
+## Technologies Used
+
+- Frontend: React.js, Tailwind CSS, Redux Toolkit, Chart.js
+- Backend: CoinCap API (https://api.coincap.io/v2)
+- Routing: React Router
+- State Management: Redux Toolkit
+- Data Visualization: Chart.js
 
