@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="flex flex-col min-h-screen">
       <Header />
-        <main className="w-full min-h-screen flex-grow container mx-auto px-4 py-8">
+        <main className="w-full min-h-screen flex-grow container mx-auto px-4 py-4">
           <Outlet />
         </main>
       <Footer />
