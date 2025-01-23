@@ -4,3 +4,9 @@ The Real-Time Cryptocurrency Dashboard is a responsive web application built wit
 
 This project integrates the CoinCap API to fetch data for selected cryptocurrencies and visualize it using charts and tables. The app's goal is to provide an intuitive and interactive experience for crypto enthusiasts and developers to explore cryptocurrency data.
 
+## Features
+
+Dashboard Page
+- Real-time price and 24-hour percentage change for selected cryptocurrencies.
+- Line chart to display 7-day historical price trends.
+- Dropdown to search and select any cryptocurrency dynamically.
