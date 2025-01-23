@@ -67,9 +67,9 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository:
 
 Clone the repository to your local machine:
-- git clone <repository-url>           # repository-url is :- https://github.com/thakurvs/Cryptocurrency-Dashboard.git 
-- cd <repository-folder>               # in this case repo name is :- Cryptocurrency-Dashboard
-- cd <project-name>                    # in this case project name is :- crypto-dashboard
+- git clone <repository-url>           
+- cd <repository-folder>               # repo name is :- Cryptocurrency-Dashboard
+- cd <project-name>                    # project name is :- crypto-dashboard
 
 ### 2. Install dependencies:
 npm install
