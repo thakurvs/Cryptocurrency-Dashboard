@@ -1,0 +1,35 @@
+header {
+    background: var(--primary-color);
+    color: #fff;
+    padding: 0.5rem 0.5rem;
+    letter-spacing: 1px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .main-header {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+
+  }
+
+  /* Adjust font sizes, spacing, and image size for different screen sizes */
+@media (max-width: 1024px) {
+    .main-header {
+        flex-direction: column; /* Stack items vertically */
+        justify-content: center;
+    }
+  
+}
+
+  @media (max-width: 768px) {
+    header {
+        padding: 0.5rem;
+    }
+  
+    .main-header {
+        padding: 0.5rem;
+    }
+}
