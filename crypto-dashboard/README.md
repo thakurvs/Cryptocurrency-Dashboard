@@ -23,3 +23,22 @@ Overview Page
 History Page
 - Displays a table of historical data (price, date, and 24-hour volume).
 - Search functionality to filter data by date.
+
+## Project Structure
+real-time-crypto-dashboard/
+├── src/
+│   ├── components/
+│   │   ├── Header.jsx
+│   │
+│   ├── pages/              # Page-level components
+│   ├── store/
+│   │   ├── cryptoSlice.js
+│   ├── styles/
+│   │   ├── tailwind.css
+│   ├── App.jsx
+│   ├── main.jsx
+├── public/
+├── README.md
+├── package.json
+├── tailwind.config.js
+
