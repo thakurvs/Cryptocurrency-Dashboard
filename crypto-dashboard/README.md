@@ -10,3 +10,16 @@ Dashboard Page
 - Real-time price and 24-hour percentage change for selected cryptocurrencies.
 - Line chart to display 7-day historical price trends.
 - Dropdown to search and select any cryptocurrency dynamically.
+
+Overview Page
+-Displays key metrics like:
+-Market Cap
+-Total Supply
+-Circulating Supply
+-All-Time High Price
+-Cryptocurrency Rank
+-A detailed description of the cryptocurrency.
+
+History Page
+-Displays a table of historical data (price, date, and 24-hour volume).
+-Search functionality to filter data by date.
