@@ -67,24 +67,25 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository:
 
 Clone the repository to your local machine:
-git clone <repository-url>           # repository-url is :- https://github.com/thakurvs/Cryptocurrency-Dashboard.git 
-cd <repository-folder>               # in this case repo name is :- Cryptocurrency-Dashboard
-cd <project-name>                    # in this case project name is :- crypto-dashboard
+- git clone <repository-url>           # repository-url is :- https://github.com/thakurvs/Cryptocurrency-Dashboard.git 
+- cd <repository-folder>               # in this case repo name is :- Cryptocurrency-Dashboard
+- cd <project-name>                    # in this case project name is :- crypto-dashboard
 
 ### 2. Install dependencies:
 npm install
 # or
 yarn install
 
+### 3. install vite
 Note:- run below command in case you don't have vite installed on your system as this project is created using vite.
 npm install vite
 # or
 npm install -D vite
 
-### 3. Start the development server:
+### 4. Start the development server:
 npm run dev
 # or
 yarn dev
 
-### 4. Open the application:
+### 5. Open the application:
 The application will be available at http://localhost:5173 in your browser.
