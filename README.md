@@ -92,3 +92,14 @@ yarn dev
 
 ### 5. Open the application:
 The application will be available at http://localhost:5173 in your browser.
+
+## Additional Notes
+- Customization: The application uses Tailwind CSS, which allows easy customization of styles via the tailwind.config.js file.
+- Performance: Vite ensures fast builds and optimized production assets.
+
+## Acknowledgments
+- React and its amazing ecosystem
+- Vite for its super-fast bundling
+- Tailwind CSS for simplifying styling
+
+Feel free to fork and contribute to this project! Happy coding!
