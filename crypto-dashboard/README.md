@@ -66,12 +66,12 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository:
 
-- Clone the repository to your local machine:
-git clone <repository-url>
-- Change into the project directory:
-cd <repository-folder>
-- Navigate to the project directory:
-cd <project-name>
+1. **Clone the Repository:**
+   Clone the repository to your local machine:
+   ```bash
+   git clone <repository-url>
+    cd <repository-folder>
+    cd <project-name>
 
 
 ### 2. Install dependencies:
