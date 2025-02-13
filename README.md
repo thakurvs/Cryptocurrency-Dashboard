@@ -81,7 +81,7 @@ yarn install
 
 ### 3. install vite
 Note:- run below command in case you don't have vite installed on your system as this project is created using vite.
-npm install vite
+npm install vite@latest
 # or
 npm install -D vite
 
